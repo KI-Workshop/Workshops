@@ -5,9 +5,9 @@ English below
 
 Es gibt 3 Dateien je Workshop.
 
-    Die "Teaser" Datei, in welcher der Workshop kurz zusammengefasst wird & zu dem Skript und dem Protokoll (den WordPressseiten!) verlinkt wird.
-    Die "Skript" Datei, in welcher der Workshop geplant wird, enthält die Werbetexte, das ZIM, ...
-    Die "Protokoll" Datei, in welcher ein Protokoll eines durchgeführten Workshops zu finden ist. Samt Bilder der Flipcharts, weitere Informationen, etc..
+- Die "Teaser" Datei, in welcher der Workshop kurz zusammengefasst wird & zu dem Skript und dem Protokoll (den WordPressseiten!) verlinkt wird.
+- Die "Skript" Datei, in welcher der Workshop geplant wird, enthält die Werbetexte, das ZIM, ...
+- Die "Protokoll" Datei, in welcher ein Protokoll eines durchgeführten Workshops zu finden ist. Samt Bilder der Flipcharts, weitere Informationen, etc..
 
 Die Dateien werden automatisch auf KI-Workshop.org gepusht.
 
